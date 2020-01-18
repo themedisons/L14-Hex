@@ -1,6 +1,6 @@
 /* Programma 41.c
 Masīva kārtošana 
-Sandis Mālnieks 193RIC058 NEMB0
+Raivis Medvedevs 193NEB004 NEMB0
 */
 
 #include <stdio.h>
